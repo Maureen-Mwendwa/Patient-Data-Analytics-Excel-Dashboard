@@ -3,7 +3,7 @@
 This repository contains an Excel dashboard analyzing patient demographics, health trends, and healthcare costs across various facilities.
 
 ## Dashboard Preview:
-![Dashboard Preview]([patient_data_analytics/Patient_Analytics_Dashboard.PNG](https://github.com/Maureen-Mwendwa/Patient-Data-Analytics-Excel-Dashboard/blob/main/Patient_Analytics_Dashboard.PNG))
+![Patient_Analytics_Dashboard](https://github.com/user-attachments/assets/f6dc37bb-10e7-4d19-a3fa-99524568fe70)
 
 ## Features:
 - **Dynamic Dashboard:** Built for interactive exploration of health and cost trends, with slicers for filtering by:
